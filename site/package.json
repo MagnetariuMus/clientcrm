@@ -1,0 +1,11 @@
+{
+  "name": "clientcrm",
+  "version": "1.0.0",
+  "description": "Клиенттерді тіркеу жүйесі — курстық жоба",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Толқынұлы Еділ",
+  "license": "MIT"
+}
